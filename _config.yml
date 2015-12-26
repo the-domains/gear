@@ -1,0 +1,28 @@
+name: Gear
+favicon: null
+layout_spectrum: 0.5051174215041101
+typography_spectrum: 0.9545466990675777
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.524570596171543
+  lightness: 0.6725606813561171
+  saturation: 0.5863830377347767
+  rhythmicContrast: 0.10935246828012168
+purpose: []
